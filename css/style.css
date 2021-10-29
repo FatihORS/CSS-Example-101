@@ -1,0 +1,18 @@
+/* ****** CSS file******* */
+body {
+    text-align:center;
+    /* align-items: stretch; */
+    list-style-position:inside;
+    
+}
+
+h3{
+    color: brown;
+}
+h4{
+    color: brown;
+}
+p {
+    text-size-adjust: 10px;
+    color: rgb(255, 16, 48);
+}
